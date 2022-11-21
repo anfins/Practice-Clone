@@ -9,10 +9,16 @@ class Node{
 
 
     public:
+
+        int getValue(){
+            return value;
+        }
+    
     
 
 
     private:
+        int value;
     
 
 
